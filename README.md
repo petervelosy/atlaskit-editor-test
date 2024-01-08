@@ -1,6 +1,6 @@
-# Forge Hello World
+# Forge AtlasKit Editor Sample App
 
-This project contains a Forge app written in Javascript that displays `Hello World!` in a Jira issue activity. 
+A Forge Jira Issue Activity module that displays the Atlaskit editor, as a PoC for integrating this editor into a Forge app.
 
 See [developer.atlassian.com/platform/forge/](https://developer.atlassian.com/platform/forge) for documentation and tutorials explaining Forge.
 
