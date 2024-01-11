@@ -12,5 +12,11 @@ modules:
 resources:
   - key: main
     path: static/hello-world/build
+    tunnel:
+      port: 3000
+permissions:
+  content:
+    styles:
+      - unsafe-inline
 app:
   id: ari:cloud:ecosystem::app/8492258f-adeb-4ac6-99a4-6e32791472c7
